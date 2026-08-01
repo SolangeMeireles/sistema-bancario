@@ -18,5 +18,7 @@ Projeto desenvolvido com foco na aplicação de conceitos avançados de programa
 > O resultado é um código modular, limpo e pronto para integração com APIs e banco de dados.
 >
 > 💻 **Confira o repositório completo no GitHub:** [https://github.com/SolangeMeireles/sistema-bancario/edit/main/README.md]
+
+---
 >
 > #Python #EngenhariaDeSoftware #CleanCode #DesenvolvimentoSoftware #POO #GitHub #DIO
